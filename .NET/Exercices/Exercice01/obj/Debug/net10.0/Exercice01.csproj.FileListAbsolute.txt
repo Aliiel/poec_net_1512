@@ -1,0 +1,15 @@
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\bin\Debug\net10.0\Exercice01.exe
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\bin\Debug\net10.0\Exercice01.deps.json
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\bin\Debug\net10.0\Exercice01.runtimeconfig.json
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\bin\Debug\net10.0\Exercice01.dll
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\bin\Debug\net10.0\Exercice01.pdb
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\Exercice01.GeneratedMSBuildEditorConfig.editorconfig
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\Exercice01.AssemblyInfoInputs.cache
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\Exercice01.AssemblyInfo.cs
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\Exercice01.csproj.CoreCompileInputs.cache
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\Exercice01.sourcelink.json
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\Exercice01.dll
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\refint\Exercice01.dll
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\Exercice01.pdb
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\Exercice01.genruntimeconfig.cache
+C:\ENV\WORKSPACES\poec_net_1512\.NET\Exercices\Exercice01\obj\Debug\net10.0\ref\Exercice01.dll
