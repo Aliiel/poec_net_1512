@@ -1,0 +1,5 @@
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.sourcelink.json

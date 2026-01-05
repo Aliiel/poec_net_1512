@@ -15,8 +15,8 @@ class Exercice01
         Console.WriteLine("Quel est votre âge ? ");
         int ageUtilisateur = Convert.ToInt32(Console.ReadLine());
 
-        const int ageRecommande = 21;
-        bool accesOk = ageUtilisateur >= ageRecommande;
+        const int AGE_RECOMMANDE = 21;
+        bool accesOk = ageUtilisateur >= AGE_RECOMMANDE;
 
         if (accesOk)
         {
@@ -26,10 +26,10 @@ class Exercice01
             while (true)
             {
                 Console.WriteLine(
-                    "\n1 - Pinte de bière : 7.50€ " +
-                    "\n2 - Moscow mule : 8.90 €" +
-                    "\n3 - Orangina : 2.50 €" +
-                    "\n4 - Thé à la menthe : 4 €" +
+                    "\n1 - Pinte de bière" +
+                    "\n2 - Moscow mule" +
+                    "\n3 - Orangina" +
+                    "\n4 - Thé à la menthe" +
                     "\nSTOP - Affichage de l'ardoise à régler");
 
                 string saisie = Console.ReadLine();
