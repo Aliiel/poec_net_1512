@@ -3,3 +3,13 @@ C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\De
 C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.AssemblyInfo.cs
 C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.csproj.CoreCompileInputs.cache
 C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.sourcelink.json
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\bin\Debug\net10.0\Exercice03.exe
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\bin\Debug\net10.0\Exercice03.deps.json
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\bin\Debug\net10.0\Exercice03.runtimeconfig.json
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\bin\Debug\net10.0\Exercice03.dll
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\bin\Debug\net10.0\Exercice03.pdb
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.dll
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\refint\Exercice03.dll
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.pdb
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\Exercice03.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\poec_net_1512\.NET\Exercices\Exercice03\obj\Debug\net10.0\ref\Exercice03.dll

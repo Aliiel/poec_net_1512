@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\Exercice03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CA9C62D-254E-3E42-639A-2E28E738A005}|Exercice03\\Exercice03.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\.net\\exercices\\exercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA9C62D-254E-3E42-639A-2E28E738A005}|Exercice03\\Exercice03.csproj|solutionrelative:exercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\Exercice02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97AF5D6C-26B0-BAA5-DE9E-406B6D703057}|Exercice02\\Exercice02.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\.net\\exercices\\exercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AF5D6C-26B0-BAA5-DE9E-406B6D703057}|Exercice02\\Exercice02.csproj|solutionrelative:exercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Exercice02\\Program.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\Exercice02\\Program.cs",
               "RelativeToolTip": "Exercice02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T14:14:20.216Z",
               "IsPinned": true,
@@ -42,7 +42,7 @@
               "RelativeDocumentMoniker": "Exercice03\\Program.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\Exercice03\\Program.cs",
               "RelativeToolTip": "Exercice03\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T14:44:24.832Z",
               "EditorCaption": ""

@@ -5,61 +5,48 @@ class Exercice02
     static void Main(string[] args)
     {
         Console.WriteLine("Veuillez choisir votre mode de difficulté : 1, 2 ou 3");
-        string difficulte = Console.ReadLine();
+        string? Difficulte = Console.ReadLine();
 
-        int essais = 0;
-
-        switch (difficulte)
+        int Essais = Difficulte switch
         {
-            case "1":
-                essais = 3;
-                Console.WriteLine("Ok, vous avez 3 essais pour trouver le bon chiffre !");
-                break;
-            case "2":
-                essais = 2;
-                Console.WriteLine("Ok, vous avez 2 essais pour trouver le bon chiffre !");
-                break;
-            case "3":
-                essais = 1;
-                Console.WriteLine("Ok, vous avez 1 seul essai pour trouver le bon chiffre ! Bon chance !");
-                break;
-            default:
-                essais = 0;
-                break;
-        }
+            "1" => 3,
+            "2" => 2,
+            "3" => 1,
+            _ => 0
+        };
 
         Random rnd = new Random();
-        int nbATrouver = rnd.Next(0, 100);
-        Console.WriteLine($"(nombre à trouver : {nbATrouver}) ");
+        int NbATrouver = rnd.Next(0, 100);
+        Console.WriteLine($"(nombre à trouver : {NbATrouver}) ");
 
         do
         {
             Console.WriteLine("Entrez un chiffre :");
-            int nbSaisi = Convert.ToInt32(Console.ReadLine());
+            int NbSaisi = Convert.ToInt32(Console.ReadLine());
 
-            if (nbSaisi == nbATrouver)
+            if (NbSaisi == NbATrouver)
             {
-                Console.WriteLine($"Bravo ! Vous avez trouvé le bon nombre qui était : {nbATrouver}.");
+                Console.WriteLine($"Bravo ! Vous avez trouvé le bon nombre qui était : {NbATrouver}.");
                 break;
             }
 
-            if (nbSaisi < nbATrouver)
+            if (NbSaisi < NbATrouver)
             {
-                essais--;
-                Console.WriteLine($"C'est plus ! Il vous reste {essais} essais");
+                Essais--;
+                Console.WriteLine($"C'est plus ! Il vous reste {Essais} essais");
             }
 
-            if (nbSaisi > nbATrouver)
+            if (NbSaisi > NbATrouver)
             {
-                essais--;
-                Console.WriteLine($"C'est moins ! Il vous reste {essais} essais");
+                Essais--;
+                Console.WriteLine($"C'est moins ! Il vous reste {Essais} essais");
             }
 
-        } while (essais > 0);
+        } while (Essais > 0);
 
-        if (essais == 0)
+        if (Essais == 0)
         {
-            Console.WriteLine($"Perdu ! Vous n'avez pas trouvé le nombre qui était : {nbATrouver}.");
+            Console.WriteLine($"Perdu ! Vous n'avez pas trouvé le nombre qui était : {NbATrouver}.");
         }
     }
 }
