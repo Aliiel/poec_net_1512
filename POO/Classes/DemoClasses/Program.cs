@@ -3,6 +3,11 @@ using System;
 
 Chaise chaiseParDefaut = new Chaise();
 Chaise chaiseAvecParams = new Chaise(6, "verre", "verte");
+Chaise chaiseAvecAutresParams = new Chaise(4, "plastique", "transparent");
 
-Console.WriteLine(chaiseParDefaut.ToString());
-Console.WriteLine(chaiseAvecParams.ToString());
+Chaise[] chaises = { chaiseParDefaut, chaiseAvecParams, chaiseAvecAutresParams };
+
+foreach (Chaise ch in chaises)
+{
+    Console.WriteLine(ch.ToString());
+}

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E12B60B6-4D6E-4C84-ABCC-EE2216B6E231}|DemoClasses\\DemoClasses.csproj|c:\\env\\workspaces\\poec_net_1512\\poo\\classes\\democlasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12B60B6-4D6E-4C84-ABCC-EE2216B6E231}|DemoClasses\\DemoClasses.csproj|solutionrelative:democlasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F9B4661-9F1A-4133-CBA4-FA8A1CB2B2AA}|DemoClasses\\DemoClasses.csproj|c:\\env\\workspaces\\poec_net_1512\\poo\\classes\\democlasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9B4661-9F1A-4133-CBA4-FA8A1CB2B2AA}|DemoClasses\\DemoClasses.csproj|solutionrelative:democlasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12B60B6-4D6E-4C84-ABCC-EE2216B6E231}|DemoClasses\\DemoClasses.csproj|c:\\env\\workspaces\\poec_net_1512\\poo\\classes\\democlasses\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12B60B6-4D6E-4C84-ABCC-EE2216B6E231}|DemoClasses\\DemoClasses.csproj|solutionrelative:democlasses\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F9B4661-9F1A-4133-CBA4-FA8A1CB2B2AA}|DemoClasses\\DemoClasses.csproj|c:\\env\\workspaces\\poec_net_1512\\poo\\classes\\democlasses\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9B4661-9F1A-4133-CBA4-FA8A1CB2B2AA}|DemoClasses\\DemoClasses.csproj|solutionrelative:democlasses\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "DemoClasses\\Program.cs",
               "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\Program.cs",
               "RelativeToolTip": "DemoClasses\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T11:26:05.734Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "DemoClasses\\Chaise.cs",
               "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\Chaise.cs",
               "RelativeToolTip": "DemoClasses\\Chaise.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T11:10:31.627Z",
               "EditorCaption": ""

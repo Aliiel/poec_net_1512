@@ -33,8 +33,7 @@ namespace DemoClasses
         override
         public string ToString ()
         {
-            string description = $"Je suis une chaise, j'ai {NombrePieds} pieds, je suis en {Materiaux} et de couleur {Couleur}.";
-            return description;
+            return $"Je suis une chaise, j'ai {NombrePieds} pieds, je suis en {Materiaux} et de couleur {Couleur}."; ;
         }
     }
 }
