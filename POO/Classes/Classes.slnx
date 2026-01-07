@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="DemoClasses/DemoClasses.csproj" />
+  <Project Path="Exercice02/Exercice02.csproj" Id="a29bb70b-fbbf-4e3f-9d82-71638db17ae1" />
+  <Project Path="Exercice03/Exercice03.csproj" Id="21972983-c437-4a25-8b5e-3c5d3863f783" />
 </Solution>

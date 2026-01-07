@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37D11379-AFC2-49B5-846F-2E76BF8A08A6}|Exercice04\\Exercice04.csproj|c:\\env\\workspaces\\poec_net_1512\\.net\\exercices\\exercice04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37D11379-AFC2-49B5-846F-2E76BF8A08A6}|Exercice04\\Exercice04.csproj|solutionrelative:exercice04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9451BA8C-EFFE-45B8-3271-F0E1263ED094}|Exercice01\\Exercice01.csproj|c:\\env\\workspaces\\poec_net_1512\\.net\\exercices\\exercice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9451BA8C-EFFE-45B8-3271-F0E1263ED094}|Exercice01\\Exercice01.csproj|solutionrelative:exercice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D11379-AFC2-49B5-846F-2E76BF8A08A6}|Exercice04\\Exercice04.csproj|c:\\env\\workspaces\\poec_net_1512\\.net\\exercices\\exercice04\\pendu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D11379-AFC2-49B5-846F-2E76BF8A08A6}|Exercice04\\Exercice04.csproj|solutionrelative:exercice04\\pendu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AF5D6C-26B0-BAA5-DE9E-406B6D703057}|Exercice02\\Exercice02.csproj|c:\\env\\workspaces\\poec_net_1512\\.net\\exercices\\exercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AF5D6C-26B0-BAA5-DE9E-406B6D703057}|Exercice02\\Exercice02.csproj|solutionrelative:exercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D11379-AFC2-49B5-846F-2E76BF8A08A6}|Exercice04\\Exercice04.csproj|c:\\env\\workspaces\\poec_net_1512\\.net\\exercices\\exercice04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D11379-AFC2-49B5-846F-2E76BF8A08A6}|Exercice04\\Exercice04.csproj|solutionrelative:exercice04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CA9C62D-254E-3E42-639A-2E28E738A005}|Exercice03\\Exercice03.csproj|c:\\env\\workspaces\\poec_net_1512\\.net\\exercices\\exercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,36 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice01\\Program.cs",
-              "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Program.cs",
-              "RelativeToolTip": "Exercice01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Title": "Pendu.cs",
+              "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice04\\Pendu.cs",
+              "RelativeDocumentMoniker": "Exercice04\\Pendu.cs",
+              "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice04\\Pendu.cs",
+              "RelativeToolTip": "Exercice04\\Pendu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T13:46:34.054Z"
+              "WhenOpened": "2026-01-07T15:23:45.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice02\\Program.cs",
+              "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice02\\Program.cs",
+              "RelativeToolTip": "Exercice02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:20:35.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice01\\Program.cs",
+              "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Program.cs",
+              "RelativeToolTip": "Exercice01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:46:34.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice04\\Program.cs",
               "RelativeDocumentMoniker": "Exercice04\\Program.cs",
               "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice04\\Program.cs",
               "RelativeToolTip": "Exercice04\\Program.cs",
-              "ViewState": "AgIAANkAAAAAAAAAAAAQwOYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T13:42:31.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice03\\Program.cs",
               "RelativeDocumentMoniker": "Exercice03\\Program.cs",

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A29BB70B-FBBF-4E3F-9D82-71638DB17AE1}|Exercice02\\Exercice02.csproj|c:\\env\\workspaces\\poec_net_1512\\poo\\classes\\exercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29BB70B-FBBF-4E3F-9D82-71638DB17AE1}|Exercice02\\Exercice02.csproj|solutionrelative:exercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F9B4661-9F1A-4133-CBA4-FA8A1CB2B2AA}|DemoClasses\\DemoClasses.csproj|c:\\env\\workspaces\\poec_net_1512\\poo\\classes\\democlasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F9B4661-9F1A-4133-CBA4-FA8A1CB2B2AA}|DemoClasses\\DemoClasses.csproj|solutionrelative:democlasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29BB70B-FBBF-4E3F-9D82-71638DB17AE1}|Exercice02\\Exercice02.csproj|c:\\env\\workspaces\\poec_net_1512\\poo\\classes\\exercice02\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29BB70B-FBBF-4E3F-9D82-71638DB17AE1}|Exercice02\\Exercice02.csproj|solutionrelative:exercice02\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21972983-C437-4A25-8B5E-3C5D3863F783}|Exercice03\\Exercice03.csproj|c:\\env\\workspaces\\poec_net_1512\\poo\\classes\\exercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21972983-C437-4A25-8B5E-3C5D3863F783}|Exercice03\\Exercice03.csproj|solutionrelative:exercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F9B4661-9F1A-4133-CBA4-FA8A1CB2B2AA}|DemoClasses\\DemoClasses.csproj|c:\\env\\workspaces\\poec_net_1512\\poo\\classes\\democlasses\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\Exercice03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice03\\Program.cs",
+              "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\Exercice03\\Program.cs",
+              "RelativeToolTip": "Exercice03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:23:01.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salarie.cs",
+              "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\Exercice02\\Salarie.cs",
+              "RelativeDocumentMoniker": "Exercice02\\Salarie.cs",
+              "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\Exercice02\\Salarie.cs",
+              "RelativeToolTip": "Exercice02\\Salarie.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:32:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\Exercice02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice02\\Program.cs",
+              "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\Exercice02\\Program.cs",
+              "RelativeToolTip": "Exercice02\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:30:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\Program.cs",
               "RelativeDocumentMoniker": "DemoClasses\\Program.cs",
@@ -35,16 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Chaise.cs",
               "DocumentMoniker": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\Chaise.cs",
               "RelativeDocumentMoniker": "DemoClasses\\Chaise.cs",
               "ToolTip": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\Chaise.cs",
               "RelativeToolTip": "DemoClasses\\Chaise.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T11:10:31.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T11:10:31.627Z"
             }
           ]
         }

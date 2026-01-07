@@ -6,15 +6,11 @@ namespace DemoClasses
 {
     internal class Chaise
     {
-        private int _nombrePieds;
-        private string _materiaux;
-        private string _couleur;
-
         public int NombrePieds { get; set; }
 
-        public string Materiaux { get; set; }
+        public string? Materiaux { get; set; }
 
-        public string Couleur { get; set; }
+        public string? Couleur { get; set; }
 
         public Chaise()
         {
