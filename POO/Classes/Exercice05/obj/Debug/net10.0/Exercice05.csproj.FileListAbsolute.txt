@@ -1,0 +1,15 @@
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\bin\Debug\net10.0\Exercice05.exe
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\bin\Debug\net10.0\Exercice05.deps.json
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\bin\Debug\net10.0\Exercice05.runtimeconfig.json
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\bin\Debug\net10.0\Exercice05.dll
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\bin\Debug\net10.0\Exercice05.pdb
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\Exercice05.GeneratedMSBuildEditorConfig.editorconfig
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\Exercice05.AssemblyInfoInputs.cache
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\Exercice05.AssemblyInfo.cs
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\Exercice05.csproj.CoreCompileInputs.cache
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\Exercice05.sourcelink.json
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\Exercice05.dll
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\refint\Exercice05.dll
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\Exercice05.pdb
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\Exercice05.genruntimeconfig.cache
+C:\ENV\WORKSPACES\poec_net_1512\POO\Classes\Exercice05\obj\Debug\net10.0\ref\Exercice05.dll

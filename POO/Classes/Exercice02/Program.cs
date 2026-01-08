@@ -1,6 +1,6 @@
-﻿using Exercice02;
+﻿using Exercice02.Classes;
 
-string saisie;
+string? saisie;
 List<Salarie> listeSalaries = new List<Salarie>();
 
 do
@@ -45,13 +45,24 @@ do
 
 void CreerNouveauSalarie(List<Salarie> listeSalaries)
 {
-    Console.WriteLine("Nom du salarié ?");
-    string nom = Console.ReadLine();
-    Console.WriteLine($"Salaire de {nom} ?");
-    double salaire = double.Parse(Console.ReadLine());
+    double salaire;
 
-    Salarie salarie = new Salarie(nom, salaire);
-    listeSalaries.Add(salarie);
+    Console.WriteLine("Nom du salarié ?");
+    string? nom = Console.ReadLine();
+
+    Console.WriteLine($"Salaire de {nom} ?");
+
+    string? saisie = Console.ReadLine();
+
+    if (double.TryParse(saisie, out salaire))
+    {
+        Salarie salarie = new Salarie(nom, salaire);
+        listeSalaries.Add(salarie);
+    }
+    else
+    {
+        Console.WriteLine("Erreur : veuillez entrer un nombre valide pour le salaire.");
+    }
 }
 
 void AfficherSalariesEtSalaires(List<Salarie> listeSalaries)

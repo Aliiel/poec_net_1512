@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercice02
+namespace Exercice02.Classes
 {
     internal class Salarie
     {
@@ -34,7 +34,7 @@ namespace Exercice02
 
         public static void AfficherNombreSalaries()
         {
-            Console.WriteLine(_nombreSalaries == 0 ? "Pas de salariés enregistrés." : $"Il y a {_nombreSalaries} salariés.");
+            Console.WriteLine(_nombreSalaries == 0 ? "Pas de salariés enregistrés." : $"Il y a {_nombreSalaries} salarié(s).");
         }
 
         public static void AfficherNombreSalariesEtSalaireTotal()

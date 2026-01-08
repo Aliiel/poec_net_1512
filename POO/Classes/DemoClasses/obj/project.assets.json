@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\DemoClasses.csproj",
-      "projectName": "DemoClasses",
-      "projectPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\DemoClasses.csproj",
+      "projectUniqueName": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\Exercice01.csproj",
+      "projectName": "Exercice01",
+      "projectPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\Exercice01.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
       "outputPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\obj\\",
       "projectStyle": "PackageReference",
