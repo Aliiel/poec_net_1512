@@ -14,6 +14,7 @@ namespace Exercice05.Classes
         public override void Depot(double montant)
         {
             Solde += montant;
+            ListeOperations.Add(new Operation(montant, Statut.depot));
         }
 
         public override bool Retrait(double montant)
@@ -21,6 +22,7 @@ namespace Exercice05.Classes
             if (Solde < montant) return false;
 
             Solde -= montant;
+            ListeOperations.Add(new Operation(montant, Statut.retrait));
             return true;
         }
 

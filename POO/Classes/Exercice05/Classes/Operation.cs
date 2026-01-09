@@ -10,23 +10,19 @@ namespace Exercice05.Classes
 
         public int NumeroOperation { get; set; }
         public double Montant { get; set; }
-        public Statut statut { get; set; }
-        public enum Statut
-        {
-            retrait,
-            depot
-        };
+        public Statut Statut { get; set; }
 
         public Operation(double montant, Statut statut)
         {
             _numeroOperation++;
             NumeroOperation = _numeroOperation;
             Montant = montant;
+            Statut = statut;
         }
 
         public override string ToString()
         {
-            return $"Opérations effectuées : {statut}, d'un montant de {Montant}";
+            return $"Opérations effectuées : {Statut}, d'un montant de {Montant}";
         }
     }
 }

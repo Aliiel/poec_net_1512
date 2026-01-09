@@ -4,4 +4,6 @@
   <Project Path="Exercice03/Exercice03.csproj" Id="21972983-c437-4a25-8b5e-3c5d3863f783" />
   <Project Path="Exercice04/Exercice04.csproj" Id="36741983-03c4-48c1-b222-4663bfa056e0" />
   <Project Path="Exercice05/Exercice05.csproj" Id="9cdb8644-adf3-4124-8553-1cbbb52e8735" />
+  <Project Path="Exercice06/Exercice06.csproj" Id="f86c83a2-25be-4a5a-a05b-b14f93249b4e" />
+  <Project Path="TPBonus/TPBonus.csproj" Id="f2628594-dce2-4661-9555-f4c607ea74e1" />
 </Solution>
