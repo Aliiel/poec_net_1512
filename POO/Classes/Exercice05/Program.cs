@@ -35,6 +35,7 @@ void Start()
             "\n5. Afficher les opérations et le solde" +
             "\n6. Quitter le programme");
 
+        Console.Write("Votre choix : ");
         saisie = Console.ReadLine();
 
         switch(saisie)
@@ -66,7 +67,6 @@ void Start()
 
 void ListerCompteBancaires(Client client)
 {
-    client.ListerComptes();
     client.AfficherComptes();
 }
 
@@ -82,6 +82,7 @@ void CreerCompteBancaire(Client client)
             "\n3. Créer un compte payant" +
             "\n4. Retour");
 
+        Console.Write("Votre choix : ");
         choix = Console.ReadLine();
         double montant = 0;
 
@@ -91,6 +92,7 @@ void CreerCompteBancaire(Client client)
                 Console.WriteLine("Quel montant pour la création de votre compte courant ?");
                 montant = double.Parse(Console.ReadLine());
                 CreerCompteCourant(client, montant);
+                
                 break;
             case "2":
                 Console.WriteLine("Quel montant pour la création de votre compte épargne ?");
@@ -121,13 +123,17 @@ void CreerCompteCourant(Client client, double montant)
 
 void CreerCompteEpargne(Client client, double montant)
 {
-    CompteEpargne compteEpargne = new CompteEpargne(montant, client);
+    Console.WriteLine("Saisir le taux d'épargne : ");
+    double tauxEpargne = double.Parse(Console.ReadLine());
+    CompteEpargne compteEpargne = new CompteEpargne(montant, client, tauxEpargne);
     client.CreerUnCompte(compteEpargne);
 }
 
 void CreerComptePayant(Client client, double montant)
 {
-    ComptePayant comptePayant = new ComptePayant(montant, client);
+    Console.WriteLine("Saisir le coût : ");
+    double cout = double.Parse(Console.ReadLine());
+    ComptePayant comptePayant = new ComptePayant(montant, client, cout);
     client.CreerUnCompte(comptePayant);
 }
 

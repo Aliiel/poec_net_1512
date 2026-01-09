@@ -6,25 +6,30 @@ namespace Exercice05.Classes
 {
     internal class CompteEpargne : CompteBancaire
     {
-        public static int _compteurComptesEpargne = 0;
-        public CompteEpargne(double solde, Client? client) : base(solde, client)
+        public double TauxEpargne { get; set; }
+        public CompteEpargne(double solde, Client? client, double tauxEpargne) : base(solde, client)
         {
-            _compteurComptesEpargne++;
+            TauxEpargne = tauxEpargne;
         }
 
-        public override string ListerComptes()
+        public override void Depot(double montant)
         {
-            return base.ListerComptes() + $"\nTotal comptes épargne : {_compteurComptesEpargne}";
+            Solde += montant * TauxEpargne;
         }
 
-        public override void EffectuerOperation(Operation operation)
+        public override bool Retrait(double montant)
         {
-            base.EffectuerOperation(operation);
+            if (Solde < montant) return false;
+
+            Solde -= montant;
+            return true;
+
         }
 
         public override string ToString()
         {
-            return $"-- Compte épargne --\n" + base.ToString();
+            return $"-- Compte épargne --\n" +
+                $"Compte de {Client.Prenom}, solde du compte : {Solde} euros";
         }
     }
 }

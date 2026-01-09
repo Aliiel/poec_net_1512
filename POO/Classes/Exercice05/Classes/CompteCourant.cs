@@ -6,27 +6,28 @@ namespace Exercice05.Classes
 {
     internal class CompteCourant : CompteBancaire
     {
-        public static int _compteurComptesCourants = 0;
         public CompteCourant(double solde, Client? client) : base(solde, client)
         {
-            _compteurComptesCourants++;
-            base.Solde = solde;
-            base.client = client;
+
         }
 
-        public override string ListerComptes()
+        public override void Depot(double montant)
         {
-            return base.ListerComptes() + $"\nTotal comptes courants : {_compteurComptesCourants}";
+            Solde += montant;
         }
 
-        public override void EffectuerOperation(Operation operation)
+        public override bool Retrait(double montant)
         {
-            base.EffectuerOperation(operation);
+            if (Solde < montant) return false;
+
+            Solde -= montant;
+            return true;
         }
 
         public override string ToString()
         {
-            return $"-- Compte courant --\n" + base.ToString();
+            return $"-- Compte courant --\n" +
+                $"Compte de {Client.Prenom}, solde du compte : {Solde} euros";
         }
     }
 }

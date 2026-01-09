@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\Exercice01.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\DemoClasses\\Exercice01.csproj",
       "projectName": "Exercice01",
-      "projectPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\Exercice01.csproj",
+      "projectPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\DemoClasses\\Exercice01.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\POO\\Classes\\DemoClasses\\obj\\",
+      "outputPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\DemoClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

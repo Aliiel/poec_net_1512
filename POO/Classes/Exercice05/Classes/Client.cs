@@ -30,16 +30,12 @@ namespace Exercice05.Classes
             ListeDesComptes.Add(compteACreer);
         }
 
-        public void ListerComptes()
-        {
-            
-        }
 
         public void AfficherComptes()
         {
             if (ListeDesComptes.Count == 0) Console.WriteLine("Pas encore de compte bancaire");
 
-            foreach (CompteBancaire compte in ListeDesComptes)
+            foreach(CompteBancaire compte in ListeDesComptes)
             {
                 Console.WriteLine(compte.ToString());
             }

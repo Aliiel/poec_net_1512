@@ -6,25 +6,31 @@ namespace Exercice05.Classes
 {
     internal class ComptePayant : CompteBancaire
     {
-        public static int _compteurComptesPayants = 0;
-        public ComptePayant(double solde, Client? client) : base(solde, client)
+
+        public double Cout { get; set; }
+        public ComptePayant(double solde, Client? client, double cout) : base(solde, client)
         {
-            _compteurComptesPayants++;
+            Cout = cout;
         }
 
-        public override string ListerComptes()
+        public override void Depot(double montant)
         {
-            return base.ListerComptes() + $"\nTotal comptes payants : {_compteurComptesPayants}";
+             montant += (Solde - Cout);
         }
 
-        public override void EffectuerOperation(Operation operation) 
+        public override bool Retrait(double montant)
         {
-            base.EffectuerOperation(operation);
+            if (Solde < montant) return false;
+
+            Solde -= montant;
+            return true;
+            
         }
 
         public override string ToString()
         {
-            return $"-- Compte payant --\n" + base.ToString();
+            return $"-- Compte payant --\n" +
+                $"Compte de {Client.Prenom}, solde du compte : {Solde} euros";
         }
     }
 }

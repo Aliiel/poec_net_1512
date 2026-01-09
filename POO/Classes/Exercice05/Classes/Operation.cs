@@ -6,7 +6,9 @@ namespace Exercice05.Classes
 {
     internal class Operation
     {
-        public string? Numero { get; set; }
+        public static int _numeroOperation = 0;
+
+        public int NumeroOperation { get; set; }
         public double Montant { get; set; }
         public Statut statut { get; set; }
         public enum Statut
@@ -15,11 +17,16 @@ namespace Exercice05.Classes
             depot
         };
 
-        public Operation(string? numero, double montant, Statut statut)
+        public Operation(double montant, Statut statut)
         {
-            Numero = numero;
+            _numeroOperation++;
+            NumeroOperation = _numeroOperation;
             Montant = montant;
-            this.statut = statut;
+        }
+
+        public override string ToString()
+        {
+            return $"Opérations effectuées : {statut}, d'un montant de {Montant}";
         }
     }
 }

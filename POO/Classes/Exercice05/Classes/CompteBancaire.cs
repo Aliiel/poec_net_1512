@@ -6,43 +6,21 @@ namespace Exercice05.Classes
 {
     internal abstract class CompteBancaire
     {
-        public static int _compteurTotalComptes = 0;
+        public int NumeroCompte { get; set;  }
         public double Solde { get; set; }
-        public Client? client { get; set; }
-        public List<Operation>? operations { get; set; } = new();
+        public Client? Client { get; set; }
+        public List<Operation>? Operations { get; set; } = new();
 
         protected CompteBancaire(double solde, Client? client)
         {
-            _compteurTotalComptes++;
             Solde = solde;
-            this.client = client;
+            Client = client;
         }
 
-        public virtual void EffectuerOperation(Operation operations)
-        {
-            switch (operations.statut)
-            {
+        public abstract void Depot(double montant);
+        
+        public abstract bool Retrait(double montant);
 
-                case Operation.Statut.retrait:
-                    Solde -= operations.Montant;
-                    break;
-
-                case Operation.Statut.depot:
-                    Solde += operations.Montant;
-                    break;
-                default:
-                    throw new ArgumentException("Erreur dans la transaction");
-            }
-        }
-
-        public virtual string ListerComptes()
-        {
-            return $"Nombre total de comptes : {_compteurTotalComptes}"; 
-        }
-
-        public virtual string ToString()
-        {
-            return $"Compte de {client.Prenom}, solde du compte : {Solde} euros";
-        }
+        public abstract string ToString();
     }
 }
