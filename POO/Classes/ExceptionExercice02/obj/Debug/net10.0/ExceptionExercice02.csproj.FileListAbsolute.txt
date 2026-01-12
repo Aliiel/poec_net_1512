@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\bin\Debug\net10.0\ExceptionExercice02.exe
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\bin\Debug\net10.0\ExceptionExercice02.deps.json
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\bin\Debug\net10.0\ExceptionExercice02.runtimeconfig.json
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\bin\Debug\net10.0\ExceptionExercice02.dll
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\bin\Debug\net10.0\ExceptionExercice02.pdb
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\ExceptionExercice02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\ExceptionExercice02.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\ExceptionExercice02.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\ExceptionExercice02.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\ExceptionExercice02.sourcelink.json
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\ExceptionExercice02.dll
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\refint\ExceptionExercice02.dll
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\ExceptionExercice02.pdb
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\ExceptionExercice02.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\poec_net_1512\POO\Classes\ExceptionExercice02\obj\Debug\net10.0\ref\ExceptionExercice02.dll

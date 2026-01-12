@@ -3,56 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exercice06\\classes\\interfaces\\ipaiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|solutionrelative:exercice06\\classes\\interfaces\\ipaiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|solutionrelative:exceptionexercice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exercice06\\classes\\gestionpaiements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|solutionrelative:exercice06\\classes\\gestionpaiements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice01\\classes\\saisie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|solutionrelative:exceptionexercice01\\classes\\saisie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exercice06\\classes\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|solutionrelative:exercice06\\classes\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74434241-2793-4B0D-97FA-CA127003C481}|ExceptionExercice03\\ExceptionExercice03.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74434241-2793-4B0D-97FA-CA127003C481}|ExceptionExercice03\\ExceptionExercice03.csproj|solutionrelative:exceptionexercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exercice06\\classes\\cartedecredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|solutionrelative:exercice06\\classes\\cartedecredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87ADE2C2-0D5D-476B-8545-FFB1FEFCBC48}|ExceptionExercice02\\ExceptionExercice02.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ADE2C2-0D5D-476B-8545-FFB1FEFCBC48}|ExceptionExercice02\\ExceptionExercice02.csproj|solutionrelative:exceptionexercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exercice06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F86C83A2-25BE-4A5A-A05B-B14F93249B4E}|Exercice06\\Exercice06.csproj|solutionrelative:exercice06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A29BB70B-FBBF-4E3F-9D82-71638DB17AE1}|Exercice02\\Exercice02.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29BB70B-FBBF-4E3F-9D82-71638DB17AE1}|Exercice02\\Exercice02.csproj|solutionrelative:exercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\tpbonus\\classes\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|solutionrelative:tpbonus\\classes\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87ADE2C2-0D5D-476B-8545-FFB1FEFCBC48}|ExceptionExercice02\\ExceptionExercice02.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice02\\classes\\calcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ADE2C2-0D5D-476B-8545-FFB1FEFCBC48}|ExceptionExercice02\\ExceptionExercice02.csproj|solutionrelative:exceptionexercice02\\classes\\calcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\tpbonus\\classes\\evenement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|solutionrelative:tpbonus\\classes\\evenement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87ADE2C2-0D5D-476B-8545-FFB1FEFCBC48}|ExceptionExercice02\\ExceptionExercice02.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice02\\exceptions\\notnumericentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ADE2C2-0D5D-476B-8545-FFB1FEFCBC48}|ExceptionExercice02\\ExceptionExercice02.csproj|solutionrelative:exceptionexercice02\\exceptions\\notnumericentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\tpbonus\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|solutionrelative:tpbonus\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74434241-2793-4B0D-97FA-CA127003C481}|ExceptionExercice03\\ExceptionExercice03.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice03\\exceptions\\outofboundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74434241-2793-4B0D-97FA-CA127003C481}|ExceptionExercice03\\ExceptionExercice03.csproj|solutionrelative:exceptionexercice03\\exceptions\\outofboundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\tpbonus\\classes\\billet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|solutionrelative:tpbonus\\classes\\billet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice01\\exceptions\\notintexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|solutionrelative:exceptionexercice01\\exceptions\\notintexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\tpbonus\\classes\\lieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|solutionrelative:tpbonus\\classes\\lieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CDB8644-ADF3-4124-8553-1CBBB52E8735}|Exercice05\\Exercice05.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exercice05\\classes\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CDB8644-ADF3-4124-8553-1CBBB52E8735}|Exercice05\\Exercice05.csproj|solutionrelative:exercice05\\classes\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CDB8644-ADF3-4124-8553-1CBBB52E8735}|Exercice05\\Exercice05.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exercice05\\classes\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CDB8644-ADF3-4124-8553-1CBBB52E8735}|Exercice05\\Exercice05.csproj|solutionrelative:exercice05\\classes\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\tpbonus\\classes\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2628594-DCE2-4661-9555-F4C607EA74E1}|TPBonus\\TPBonus.csproj|solutionrelative:tpbonus\\classes\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87ADE2C2-0D5D-476B-8545-FFB1FEFCBC48}|ExceptionExercice02\\ExceptionExercice02.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice02\\exceptions\\negatifexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ADE2C2-0D5D-476B-8545-FFB1FEFCBC48}|ExceptionExercice02\\ExceptionExercice02.csproj|solutionrelative:exceptionexercice02\\exceptions\\negatifexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,170 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Evenement.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Evenement.cs",
-              "RelativeDocumentMoniker": "TPBonus\\Classes\\Evenement.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Evenement.cs",
-              "RelativeToolTip": "TPBonus\\Classes\\Evenement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "OutOfBoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice03\\Exceptions\\OutOfBoundException.cs",
+              "RelativeDocumentMoniker": "ExceptionExercice03\\Exceptions\\OutOfBoundException.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice03\\Exceptions\\OutOfBoundException.cs",
+              "RelativeToolTip": "ExceptionExercice03\\Exceptions\\OutOfBoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:39:03.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Place.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Place.cs",
-              "RelativeDocumentMoniker": "TPBonus\\Classes\\Place.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Place.cs",
-              "RelativeToolTip": "TPBonus\\Classes\\Place.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:37:29.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CompteBancaire.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice05\\Classes\\CompteBancaire.cs",
-              "RelativeDocumentMoniker": "Exercice05\\Classes\\CompteBancaire.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice05\\Classes\\CompteBancaire.cs",
-              "RelativeToolTip": "Exercice05\\Classes\\CompteBancaire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:34:54.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Lieu.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Lieu.cs",
-              "RelativeDocumentMoniker": "TPBonus\\Classes\\Lieu.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Lieu.cs",
-              "RelativeToolTip": "TPBonus\\Classes\\Lieu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:33:34.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Adresse.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Adresse.cs",
-              "RelativeDocumentMoniker": "TPBonus\\Classes\\Adresse.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Adresse.cs",
-              "RelativeToolTip": "TPBonus\\Classes\\Adresse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:32:17.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GestionPaiements.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Classes\\GestionPaiements.cs",
-              "RelativeDocumentMoniker": "Exercice06\\Classes\\GestionPaiements.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Classes\\GestionPaiements.cs",
-              "RelativeToolTip": "Exercice06\\Classes\\GestionPaiements.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:21:08.321Z",
+              "WhenOpened": "2026-01-12T12:25:38.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Paypal.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Classes\\Paypal.cs",
-              "RelativeDocumentMoniker": "Exercice06\\Classes\\Paypal.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Classes\\Paypal.cs",
-              "RelativeToolTip": "Exercice06\\Classes\\Paypal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice03\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionExercice03\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice03\\Program.cs",
+              "RelativeToolTip": "ExceptionExercice03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:17:57.737Z",
+              "WhenOpened": "2026-01-12T12:24:31.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotNumericEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice02\\Exceptions\\NotNumericEntry.cs",
+              "RelativeDocumentMoniker": "ExceptionExercice02\\Exceptions\\NotNumericEntry.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice02\\Exceptions\\NotNumericEntry.cs",
+              "RelativeToolTip": "ExceptionExercice02\\Exceptions\\NotNumericEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:34:23.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calcul.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice02\\Classes\\Calcul.cs",
+              "RelativeDocumentMoniker": "ExceptionExercice02\\Classes\\Calcul.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice02\\Classes\\Calcul.cs",
+              "RelativeToolTip": "ExceptionExercice02\\Classes\\Calcul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:27:26.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NegatifException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice02\\Exceptions\\NegatifException.cs",
+              "RelativeDocumentMoniker": "ExceptionExercice02\\Exceptions\\NegatifException.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice02\\Exceptions\\NegatifException.cs",
+              "RelativeToolTip": "ExceptionExercice02\\Exceptions\\NegatifException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:25:59.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CarteDeCredit.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Classes\\CarteDeCredit.cs",
-              "RelativeDocumentMoniker": "Exercice06\\Classes\\CarteDeCredit.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Classes\\CarteDeCredit.cs",
-              "RelativeToolTip": "Exercice06\\Classes\\CarteDeCredit.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice02\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionExercice02\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice02\\Program.cs",
+              "RelativeToolTip": "ExceptionExercice02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:08:41.403Z",
+              "WhenOpened": "2026-01-12T11:24:33.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice06\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Program.cs",
-              "RelativeToolTip": "Exercice06\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice02\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice02\\Program.cs",
+              "RelativeToolTip": "Exercice02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:05:20.038Z",
+              "WhenOpened": "2026-01-12T11:14:06.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Client.cs",
-              "RelativeDocumentMoniker": "TPBonus\\Classes\\Client.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Client.cs",
-              "RelativeToolTip": "TPBonus\\Classes\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Saisie.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice01\\Classes\\Saisie.cs",
+              "RelativeDocumentMoniker": "ExceptionExercice01\\Classes\\Saisie.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice01\\Classes\\Saisie.cs",
+              "RelativeToolTip": "ExceptionExercice01\\Classes\\Saisie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:44:40.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IPaiement.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Classes\\Interfaces\\IPaiement.cs",
-              "RelativeDocumentMoniker": "Exercice06\\Classes\\Interfaces\\IPaiement.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice06\\Classes\\Interfaces\\IPaiement.cs",
-              "RelativeToolTip": "Exercice06\\Classes\\Interfaces\\IPaiement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:07:14.969Z",
+              "WhenOpened": "2026-01-12T10:32:42.409Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CompteCourant.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice05\\Classes\\CompteCourant.cs",
-              "RelativeDocumentMoniker": "Exercice05\\Classes\\CompteCourant.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\Exercice05\\Classes\\CompteCourant.cs",
-              "RelativeToolTip": "Exercice05\\Classes\\CompteCourant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:34:54.988Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Billet.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Billet.cs",
-              "RelativeDocumentMoniker": "TPBonus\\Classes\\Billet.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\TPBonus\\Classes\\Billet.cs",
-              "RelativeToolTip": "TPBonus\\Classes\\Billet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "NotIntException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice01\\Exceptions\\NotIntException.cs",
+              "RelativeDocumentMoniker": "ExceptionExercice01\\Exceptions\\NotIntException.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice01\\Exceptions\\NotIntException.cs",
+              "RelativeToolTip": "ExceptionExercice01\\Exceptions\\NotIntException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:36:43.279Z"
+              "WhenOpened": "2026-01-12T10:28:06.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice01\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionExercice01\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice01\\Program.cs",
+              "RelativeToolTip": "ExceptionExercice01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:25:55.793Z",
+              "EditorCaption": ""
             }
           ]
         }
