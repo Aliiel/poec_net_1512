@@ -9,6 +9,7 @@ namespace Exercice06.Classes
     {
         public string AdresseMail { get; set; }
         public string MotDePasse { get; set; }
+        public double Montant { get; set; }
 
         public Paypal(string adresseMail, string motDePasse)
         {
@@ -18,9 +19,9 @@ namespace Exercice06.Classes
 
         public string EffectuerPaiement(double montant)
         {
-            if (montant > 0) return $"paiement of {montant} successed";
+            if (Montant > montant) return $"paiement of {montant} euros by Paypal successed";
 
-            return $"paiement {montant} failed";
+            return $"paiement of {montant} euros by Paypal failed";
         }
 
     }
