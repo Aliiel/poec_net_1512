@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\ExerciceADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E89FEB65-EE22-4F22-9096-9CE2856F7014}|Exercices\\Exercices.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\ado\\exerciceado\\exercices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89FEB65-EE22-4F22-9096-9CE2856F7014}|Exercices\\Exercices.csproj|solutionrelative:exercices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89FEB65-EE22-4F22-9096-9CE2856F7014}|Exercices\\Exercices.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\ado\\exerciceado\\exercices\\classes\\etudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89FEB65-EE22-4F22-9096-9CE2856F7014}|Exercices\\Exercices.csproj|solutionrelative:exercices\\classes\\etudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Etudiants.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\ExerciceADO\\Exercices\\Classes\\Etudiants.cs",
+              "RelativeDocumentMoniker": "Exercices\\Classes\\Etudiants.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\ExerciceADO\\Exercices\\Classes\\Etudiants.cs",
+              "RelativeToolTip": "Exercices\\Classes\\Etudiants.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:45:45.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\ExerciceADO\\Exercices\\Program.cs",
+              "RelativeDocumentMoniker": "Exercices\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\ExerciceADO\\Exercices\\Program.cs",
+              "RelativeToolTip": "Exercices\\Program.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAwwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:45:14.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

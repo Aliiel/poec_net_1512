@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74434241-2793-4B0D-97FA-CA127003C481}|ExceptionExercice03\\ExceptionExercice03.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74434241-2793-4B0D-97FA-CA127003C481}|ExceptionExercice03\\ExceptionExercice03.csproj|solutionrelative:exceptionexercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|solutionrelative:exceptionexercice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice01\\classes\\saisie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EF6F304-5842-4984-A6CC-A427953C9127}|ExceptionExercice01\\ExceptionExercice01.csproj|solutionrelative:exceptionexercice01\\classes\\saisie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74434241-2793-4B0D-97FA-CA127003C481}|ExceptionExercice03\\ExceptionExercice03.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74434241-2793-4B0D-97FA-CA127003C481}|ExceptionExercice03\\ExceptionExercice03.csproj|solutionrelative:exceptionexercice03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87ADE2C2-0D5D-476B-8545-FFB1FEFCBC48}|ExceptionExercice02\\ExceptionExercice02.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\poo\\classes\\exceptionexercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -62,18 +62,17 @@
               "RelativeToolTip": "ExceptionExercice03\\Exceptions\\OutOfBoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T12:25:38.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T12:25:38.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice03\\Program.cs",
               "RelativeDocumentMoniker": "ExceptionExercice03\\Program.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice03\\Program.cs",
               "RelativeToolTip": "ExceptionExercice03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T12:24:31.49Z",
               "EditorCaption": ""
@@ -88,8 +87,7 @@
               "RelativeToolTip": "ExceptionExercice02\\Exceptions\\NotNumericEntry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T11:34:23.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T11:34:23.301Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "ExceptionExercice02\\Classes\\Calcul.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T11:27:26.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T11:27:26.661Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "ExceptionExercice02\\Exceptions\\NegatifException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T11:25:59.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T11:25:59.738Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "ExceptionExercice02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T11:24:33.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T11:24:33.388Z"
             },
             {
               "$type": "Document",
@@ -140,12 +135,11 @@
               "RelativeToolTip": "Exercice02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T11:14:06.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T11:14:06.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Saisie.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice01\\Classes\\Saisie.cs",
               "RelativeDocumentMoniker": "ExceptionExercice01\\Classes\\Saisie.cs",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "ExceptionExercice01\\Classes\\Saisie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:32:42.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:32:42.409Z"
             },
             {
               "$type": "Document",
@@ -166,12 +159,11 @@
               "RelativeToolTip": "ExceptionExercice01\\Exceptions\\NotIntException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:28:06.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:28:06.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\POO\\Classes\\ExceptionExercice01\\Program.cs",
               "RelativeDocumentMoniker": "ExceptionExercice01\\Program.cs",

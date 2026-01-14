@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\NuGet\\NuGet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\nuget\\nuget\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\nuget\\nuget\\demo\\classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|solutionrelative:demo\\classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\NuGet\\NuGet\\Demo\\Classes\\Personne.cs",
+              "RelativeDocumentMoniker": "Demo\\Classes\\Personne.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\NuGet\\NuGet\\Demo\\Classes\\Personne.cs",
+              "RelativeToolTip": "Demo\\Classes\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:19:06.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\NuGet\\NuGet\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\NuGet\\NuGet\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAwwPQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:11:42.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
