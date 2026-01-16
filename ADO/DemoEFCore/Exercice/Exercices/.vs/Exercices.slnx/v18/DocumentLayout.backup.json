@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\ado\\demoefcore\\exercice\\exercices\\exercicelistecontacts\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|solutionrelative:exercicelistecontacts\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\ado\\demoefcore\\exercice\\exercices\\exercicelistecontacts\\util\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|solutionrelative:exercicelistecontacts\\util\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\ado\\demoefcore\\exercice\\exercices\\exercicelistecontacts\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|solutionrelative:exercicelistecontacts\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\ado\\demoefcore\\exercice\\exercices\\exercicelistecontacts\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|solutionrelative:exercicelistecontacts\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\ado\\demoefcore\\exercice\\exercices\\exercicelistecontacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D285438-1F61-426E-9E0F-EAE4ECF80E10}|ExerciceListeContacts\\ExerciceListeContacts.csproj|solutionrelative:exercicelistecontacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ihm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Util\\Ihm.cs",
+              "RelativeDocumentMoniker": "ExerciceListeContacts\\Util\\Ihm.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Util\\Ihm.cs",
+              "RelativeToolTip": "ExerciceListeContacts\\Util\\Ihm.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAqwLIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:09:40.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Data\\ContactDbContext.cs",
+              "RelativeDocumentMoniker": "ExerciceListeContacts\\Data\\ContactDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Data\\ContactDbContext.cs",
+              "RelativeToolTip": "ExerciceListeContacts\\Data\\ContactDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:46:44.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "ExerciceListeContacts\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "ExerciceListeContacts\\Repository\\ContactRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:32:02.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Model\\Contact.cs",
+              "RelativeDocumentMoniker": "ExerciceListeContacts\\Model\\Contact.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Model\\Contact.cs",
+              "RelativeToolTip": "ExerciceListeContacts\\Model\\Contact.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:26:11.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciceListeContacts\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ADO\\DemoEFCore\\Exercice\\Exercices\\ExerciceListeContacts\\Program.cs",
+              "RelativeToolTip": "ExerciceListeContacts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:25:23.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

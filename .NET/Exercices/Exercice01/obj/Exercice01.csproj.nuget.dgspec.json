@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Exercice01.csproj": {}
+    "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Exercice01.csproj": {}
   },
   "projects": {
-    "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Exercice01.csproj": {
+    "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Exercice01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Exercice01.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Exercice01.csproj",
         "projectName": "Exercice01",
-        "projectPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Exercice01.csproj",
+        "projectPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\Exercice01\\Exercice01.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "C:\\ENV\\WORKSPACES\\poec_net_1512\\.NET\\Exercices\\Exercice01\\obj\\",
+        "outputPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\.NET\\Exercices\\Exercice01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
