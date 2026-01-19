@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document de présentation de l'HTML</title>
+</head>
+<body>
+
+    <section id="paragraphes-section"></section>
+    <!--Espace de commentaires-->  
+    <h1>Ceci est un titre</h1> <!--1 seul h1 par page-->
+    <hr>
+
+    <p>Ceci est un premier paragraphe. <br> 
+
+        <i>Texte en italique </i><br>
+        <b>Balise b pour mettre en gras</b><br>
+        <strong>Ceci est une balise strong</strong>
+        <sup>En exposant</sup><br>
+        <em>Un mot clé, en italique par défaut</em>
+        <sub>En indice</sub><br>
+        <span>Pas de style : pour spécifier un contenu à modifier / conteneur générique en ligne (inline) pour les contenus phrasés</span><br>
+    </p>
+
+
+    <section id="listes-section">
+    <h2>Section des listes</h2>
+
+    <ul>
+        <li> Lite 1 en ul </li>
+        <li> Lite 2 en ul </li>
+        <li> Lite 3 en ul </li>
+    </ul>
+
+    <ol reversed="reversed">
+        <li> Item 1 liste inversée </li>
+        <li> Item 2 liste inversée </li>
+        <li> Item 3 liste inversée </li>
+    </ol>
+
+    <ol>
+        <li> Item 1 en mode ol </li>
+        <li> Item 2 en mode ol </li>
+            <ul>
+                <li>Une liste dans une liste</li>
+            </ul>
+        <li> Item 3 en mode ol </li>
+    </ol>
+    </section>
+
+
+    <section id="balises-structurantes">
+    <h3>Section des rubriques</h3>
+
+    <div>
+        Permet de créer des divisions 
+    </div>
+
+    <section>
+        Rôle sémantique pour le SEO  / permet d'effectuer une séparation par thème
+    </section>
+
+    <hr>
+
+    <article>
+        Permet de définir un espace pour un article ou un produit | est-ce que le blog du contenu a du sens tout seul ? si oui alors article
+    </article>
+
+    <hr>
+
+    <nav>
+        Rôle sémantique : pour une liste de liens | possible de mettre pls nav dans une même page 
+    </nav>
+
+    <hr>
+
+    <main>
+        Contenu principal de la page 
+        Peut contenir sections, divs, articles
+        Une seule balise main par page 
+    </main>
+
+    <hr>
+
+    <header>
+        indique une entête de page, de section, de card, d'article | pls possibles sur la même page 
+    </header>
+
+    <hr>
+
+    <footer>
+        Fin de section, pied de page | pls possibles par page
+    </footer>
+
+    <hr>
+
+    <side>
+        contenu secondaire, side bar pour pub, articles connexes
+    </side>
+    </section>
+
+    <section id="les-medias">
+        <h2>Les médias</h2>
+        <p>
+            <img width="500" src="assets\image.jpg" alt="vue sur les montagnes"/>
+        </p>
+
+        <p>
+            <video width="500" controls type="video/mp4">
+                <source src="assets/cookies.mp4">
+            </video>
+        </p>
+
+        <!--Contenu qui provient d'une autre page (comme map de google par ex) -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2532.0955258592803!2d3.1507568769238294!3d50.60676247609629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d7b048ecbc97%3A0xb7bd19de7bc0e94!2sM2I!5e0!3m2!1sfr!2sfr!4v1768820081608!5m2!1sfr!2sfr"></iframe> 
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40488.10601341847!2d3.1206762525030767!3d50.63628152479705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d7ca41d2e233%3A0xeda8ebce54d68759!2sVilleneuve-d&#39;Ascq!5e0!3m2!1sfr!2sfr!4v1768819962802!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        <!-- balise figure pour mettre une image à l'intérieur -->
+        <figure>
+            <img src="/assets/mountain-7627580_1280-3797431148.jpg" alt="Description de l'image pour l'accessibilité">
+            <figcaption>De superbes montagnes</figcaption>
+        </figure>
+    </section>
+
+    <section id="les-liens">
+        <h2>Les liens</h2>
+
+        <p>Pour en savoir plus, cliquez <a href="#">ici</a></p>
+
+        <ul>
+            <li><a href="https://www.google.com/" target="_blank">Lien vers google</a></li>
+            <li><a href="#listes-section">Accéder aux listes</a></li>
+            <li><a href="mailto: mail@mail.com">Envoyer un mail</a></li>
+            <li><a href="tel: 0600000000">Contacter par téléphone</a></li>
+            <li><a href="">Download un fichier</a></li>
+            <li><a href="./Exercice.html">Accéder à la recette de cookies de mémé</a></li>
+        </ul>
+    </section>
+</body>
+</html>
