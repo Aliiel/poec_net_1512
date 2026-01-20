@@ -1,0 +1,53 @@
+.liste {
+    color: green;
+    list-style: square;
+}
+
+
+.titre {
+    background-color: greenyellow;
+    text-shadow: red 1px 0 10px;
+    /* couleur de l'ombre, ombre vers la droite, ombre vers le bas et flou de l'ombre */
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+    width: 50%;
+    margin: 0 auto;
+    /* pour le margin : 
+    1 valeur : prend tout le contour 
+    2 valeurs : haut + bas / droite + gauche 
+    3 valeurs : haut / gauche et droite / bas 
+    4 valeurs : haut / droite / bas / gauche 
+    auto : gère automatiquement les espaces de gauche et de droite */
+}
+
+
+article {
+    border: 3px solid rgba(165, 94, 94, 0.521);
+    margin: 30px auto;
+}
+
+
+p {
+    text-align: end;
+}
+
+
+.first-theme {
+    color: green;
+    text-decoration-line: line-through wavy aqua;
+}
+
+
+.second-theme {
+    color:cyan;
+    text-decoration-line: line-through dotted green;
+}
+
+
+p {
+    color: rgba(165, 94, 94, 0.521);
+    text-decoration-line: line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: cyan;
+}

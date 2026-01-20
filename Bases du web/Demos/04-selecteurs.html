@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Les sélecteurs</title>
+    <style>  
+
+        html {
+            font-size: 16px;
+        }
+
+
+        h1 {
+            color:brown;
+            font-size: 50px;
+            font-family: Arial, Helvetica, sans-serif;    
+        }
+
+
+        p {
+            color: blueviolet;
+        }
+
+
+        hr {
+            margin: 40px;
+        }
+
+
+        .important {
+            text-shadow: 2px 2px #558abb;
+        }
+
+
+        #unique {
+            color: chartreuse;
+        }
+
+
+        div p {
+            color: aquamarine;
+        }
+
+
+        section#zone .card p {
+            text-shadow: 4px 2px #ED6B86;
+            border: 2px solid purple;
+            margin: 15px;
+            padding: 15px;
+        }
+
+
+        .centrer {
+            text-align: center;
+        }
+
+
+        .grand {
+            font-size: 50px;
+        }
+
+
+        .backgroundGris {
+            background-color: grey;
+        }
+
+
+        .box {
+            border: 4px dashed black;
+            padding: 15px;
+            margin-bottom: 120px;
+        }
+
+
+        .alert {
+            border: 1px solid black;
+            padding: 10px;
+        }
+
+
+        .success {
+            background-color: greenyellow;
+        }
+
+
+        .error {
+            background-color: red;
+        }
+
+
+        .info {
+            background-color: whitesmoke;
+        }
+
+
+        .menu {
+            list-style: none;
+            padding: 0;
+        }
+
+
+        .menu li {
+            margin-right: 15px;
+            padding: 8px;
+            border-radius: 5px;
+            background-color: #FFCDBC;
+        }
+
+
+        table {
+            width:100%;
+            border-collapse: collapse;
+
+        }
+
+
+        th, td {
+            border:3px solid black;
+            text-align: left;
+            padding: 10px;
+        }
+
+
+        th {
+            background-color: blanchedalmond;
+        }
+
+
+        label {
+            display: block;
+            margin-top: 5px;
+            font-weight: bold;
+        }
+
+
+        input, textarea, select {
+            border: 2px solid black;
+            border-radius:4px;
+            width:50%;
+            padding: 3px;
+            margin-top: 5px;
+        }
+
+        /* commentaires en CSS */ 
+
+        select {
+            background-color: #8AC6D0;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='m6 8 4 4 4-4'/%3e%3c/svg%3e");
+            background-repeat: no-repeat; 
+            background-position: right 8px center;
+            background-size: 20px;
+        }
+
+        button {
+            background-color: #85C7F2;
+            padding: 8px;
+            margin-top: 5px;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+            margin-bottom: 30px;
+        }
+
+        img {
+            width:500px;
+            height: 300px;
+            border-radius: 50px;
+            border: 2px solid black;
+            display: block;
+        }
+
+        img:hover {
+            transform: scale(1.2);
+            transform: rotate(10deg);
+            transform: translateX(20px);
+            transition: transform 1s;
+        }
+
+        button:hover {
+            background-color: green;
+            padding: 10px;
+        }
+
+        .active:active {
+            padding: 10px;
+            background-color: black;
+            color:grey;
+        }
+
+        .focus:focus {
+            border-color: purple;
+            outline: none;
+        }
+
+        .text-px {
+            font-size: 50px;
+        }
+
+        .parent {
+            font-size: 24px;
+            border: 2px solid black;
+            padding: 10px;
+        }
+
+        .text-em {
+            font-size: 1em;   /* 1em = 1 fois la taille du parent (24 px donc ici) */
+        }
+
+        .text-rem {
+            font-size: 1.5rem;
+        }
+
+        .parent-pourcent {
+            width: 300px;
+            border: 1px solid black;
+            padding: 10px;
+        }
+
+        .enfant-pourcent {
+            width: 50%;  /* a partir de la taille du parent */
+            background-color: #ED6B86;
+            text-align: center;
+        }
+
+
+    </style>
+</head>
+<body>
+
+    <!-- Pour les polices, il prend la première si disponible, si n'existe pas, prend les suivantes indiquées -->
+    <!-- # pour reprendre les id  -->
+    <!-- . pour les classes et s'applique a tout ce qui a été précisé en class  -->
+    <!-- Possible de cheminer en reprenant les éléments des différentes balises, genre section#zone .card p => reprend le p qui est dans la classe card, qui est dans l'id zone qui est une section -->
+    <!-- Prendre en compte l'ordre des éléments, car le navigateur lit de haut en bas et va commencer par appliquer le style précisé en début -->
+    <!-- Border collapse pour fusionner les bordures -->
+
+    <h1 class="important"> Make your own style !</h1>
+    <p>Ceci est un paragraphe à styliser !</p>
+    <hr>
+    <h2 class="important">Deuxième titre </h2>
+    <p id="unique">This is a unique paragraph</p>
+
+    <div>
+        <p>Paragraphe dans une div ici</p>
+    </div>
+
+    <section id="zone">
+        <div class="card">
+            <p>Paragraphe dans une section "id"entifiée, dans une div "class"ée</p>
+        </div>
+    </section>
+
+    <p class="centrer">Texte centré en CSS</p>
+
+    <hr>
+
+    <h3>Combiner les classes </h3>
+
+    <p class="important grand">Texte important et grand comprenant deux classes, du coup le style des deux classes s'applique</p>
+
+    <p class="grand backgroundGris">Paragraphe avec une autre classe qui précise un background en gris</p>
+
+    <h3>Zone de contenu</h3>
+
+    <div class="box">
+        <p>Paragraphe dans une div</p>
+        <p class="important">Paragraphe dans la classe box avec la class "important"</p>
+    </div>
+
+    <hr>
+
+    <p class="alert centrer success">Formulaire envoyé avec succès !</p>
+
+    <p class="alert centrer error">Erreur dans l'envoi du formulaire</p>
+
+    <p class="alert centrer info">Message d'information !</p>
+
+    <h3>Menu simple</h3>
+
+    <ul class="menu">
+        <li>Accueil</li>
+        <li>Produit</li>
+        <li>Contact</li>
+    </ul>
+
+    <br>
+
+    <h3>Tableaux simples</h3>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Produit</th>
+                <th>Prix</th>
+                <th>Stock</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Farine</th>
+                <th>19 €</th>
+                <th>12</th>
+            </tr>
+            <tr>
+                <th>Pain</th>
+                <th>5 € | &euro;</th>
+                <th>24</th>
+            </tr>
+            <tr>
+                <th>Sel</th>
+                <th>0.80 €</th>
+                <th>80</th>
+            </tr>
+            <tr>
+                <th>Poivre</th>
+                <th>0.90 €</th>
+                <th>258</th>
+            </tr>
+        </tbody>
+    </table>
+
+    <br>
+
+    <h3>Les formulaires</h3>
+
+    <form class="formulaire centrer">
+        <div>
+            <label id="nom">Nom :</label>
+            <input type="text" placeholder="Votre nom" id="nom" required>
+        </div>
+        <div>
+            <label id="prenom">Prénom :</label>
+            <input type="text" placeholder="Votre prénom" id="prenom">
+        </div>
+        <div>
+            <label id="email">Email :</label>
+            <input type="text" placeholder="Votre email" id="email" required>
+        </div>
+        <div>
+            <label for="demande">Quelle est votre demande ?</label>
+            <select id="demande">
+                <option value="">--- Sélectionner une option ---</option>
+                <option value="infos">Demande d'informations</option>
+                <option value="support">Demande de support</option>
+                <option value="recla">Effectuer une réclamation</option>
+            </select>
+        </div>
+        <div>
+            <label for="message">Votre message :</label>
+            <textarea id="commentaire" maxlength="100" placeholder="Rédigez votre message"></textarea>
+        </div>
+        <div>
+            <button type="submit">Envoyer</button>
+        </div>
+    </form>
+
+        <img src="../assets/mountain-7627580_1280-3797431148.jpg" alt="montagnes">
+
+        <button class="active">Autre bouton qui change au clic</button>
+
+        <input type="text" class="focus">
+
+    <hr>
+
+    <h3>Les Tailles</h3>
+
+    <p class="text-px">
+        Texte en px (taille fixe)
+    </p>
+
+    <div class="parent">
+        <p class="test-em">Texte en em (dépend du parent)</p>
+    </div>
+
+    <p class="text-rem">Texte en rem qui dépend de la taille à la racine </p>
+
+    <div class="parent-pourcent">
+        <div class="enfant-pourcent">
+            Largeur en %
+        </div>
+    </div>
+</body>
+</html>
