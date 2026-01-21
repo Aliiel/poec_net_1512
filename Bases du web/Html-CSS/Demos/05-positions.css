@@ -1,0 +1,99 @@
+header {
+    background-color: steelblue;
+    height: 500px;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+
+
+.b1 {
+    position: static;   /* posistion définie par défaut */
+}
+
+
+.b2 {
+    background-color: blueviolet;
+    position: relative;
+
+    top: 20px;
+    left: 20px;
+}
+
+
+.b3 {
+    background-color: bisque;
+    position: absolute;   /* en position absolute, elle se positionne selon son élément parent, s'il n'y a pas de parent contenant une position, elle se comporte selon la page globale */
+    top: 0;
+    left: 0;   /* top 0 & left 0 : position en haut à droite de la page */
+}
+
+
+.b4 {
+    background-color: crimson;
+    position: fixed;
+    bottom:50px;
+    right: 50px;
+}
+
+
+.b5 {
+    background-color: #FFB400;
+    position: sticky;
+
+    top: 0;
+}
+
+
+p {
+    background-color: black;
+    height: 200px;
+}
+
+.b6 {
+    background-color: #392061;
+    top: 20px;
+    right: 20px;
+    position: absolute;
+}
+
+nav {
+    list-style: none;
+    background-color: #EC0B43;
+    height: 80px;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    z-index: 10;     /* permet de déterminer la position au niveau du plan */
+}
+
+
+.menu {
+    list-style: none;
+    line-height: 80px;
+}
+
+
+.menu li {
+    display: inline-block;
+    margin-right: 0 10px;
+}
+
+
+.menu a {
+    text-decoration: none;
+    padding: 8px 12px;
+    background-color: blueviolet;
+    color: white;
+}
+

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOOTSTRAP !</title>
+    <link rel="icon" type="image/png" href="./exercices/assets/bootstrap-logo.svg">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <h1 class="text-center mb-3">Présentation de Bootstrap !</h1>
+
+    <hr class="border border-danger border-3 opacity-60">
+
+    <div id="carouselExample" class="carousel slide">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <p class="d-block w-100">
+
+                </p>
+            </div>
+            <div class="carousel-item">
+                <p class="d-block w-100" alt="...">
+                    <p class="text-justify">
+                    Bibliothèque de classes css qui permet de faire interfaces propres et responsives en utilisant des classes déjà existantes. <br>
+                    Elle permet de gérer :
+                <ul class="list-group">
+                    <li class="list-group-item">la mise en page en colonnes : 'container', 'col', 'row'</li>
+                    <li class="list-group-item">des composants ui déjà créés : 'navbar', 'card', 'modal'</li>
+                    <li class="list-group-item">des utilitaires : petites classes pour rapidement ajuster les éléments</li>
+                </ul>
+                </p>
+                </p>
+            </div>
+            <div class="carousel-item">
+                <p class="d-block w-100" alt="...">
+
+                </p>
+            </div>
+        </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-12 col-md-6">
+                <p class="text-justify">
+                    Bibliothèque de classes css qui permet de faire interfaces propres et responsives en utilisant des classes déjà existantes. <br>
+                    Elle permet de gérer :
+                <ul class="list-group">
+                    <li class="list-group-item">la mise en page en colonnes : 'container', 'col', 'row'</li>
+                    <li class="list-group-item">des composants ui déjà créés : 'navbar', 'card', 'modal'</li>
+                    <li class="list-group-item">des utilitaires : petites classes pour rapidement ajuster les éléments</li>
+                </ul>
+                </p>
+            </div>
+            <div class="col-12 col-md-6">
+                <p>
+                    Dans asp.net core on fait régulièrement des vues, des pages classiques :
+                <ol class="list-group">
+                    <li class="list-group-item">page liste (tableau + actions)</li>
+                    <li class="list-group-item">create / edit (form + validation)</li>
+                    <li class="list-group-item">de détails (liste affichage propre genre liste de produits)</li>
+                    <li class="list-group-item">"layout global" : (menu/navbar + contenu)</li>
+                </ol>
+                </p>      
+            </div>
+            <div class="col-12 col-md-6">
+                <p class="text-center">
+                    C'est fait en bootstrap nativement <br>
+                    Avantages de bootstrap :
+                    <ul class="list-group list-group-horizontal">
+                        <li class="list-group-item">Pro</li>
+                        <li class="list-group-item">Responsive</li>
+                        <li class="list-group-item">Cohérent dans le design</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </div>
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>John</td>
+      <td>Doe</td>
+      <td>@social</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr class="border border-danger border-3 opacity-60 mt-4 mb-4">
+
+<button class="btn btn-primary">Test bootstrap</button>
+
+<h2>Responsive</h2>
+
+Faire une page qui ss'adapte à la taille de l'écran (tel, PC, ..)
+
+Bootstrap est mobile first : pense en first au tel, puis on améliore ensuite selon les écrans plus grands 
+
+'sm' => small => 576px "petits écrans"
+'md' => medium => 768px "ecrans moyens" (généralement tablettes)
+'lg' => large => 992px "grands ecrans" (petits ordis)
+'xl' => extra large => 1200px "tres grands ecrans" (ordis de base)
+'xxl' => extra extra large >= 1400px "ecrans xxl"
+
+Correspond a des paliers qui disent "a partir de cette largeur on peut utiliser la mise en page plus large"
+
+Container :
+- 'container' : une boite centrée 
+- 'container-fluid' : pour prendre toute la largeur 
+
+grid : 
+principe de base : 'container' -> 'row' -> 'col'
+
+row : "ligne" de la grid 
+col : "colonne" case dans la ligne 
+
+row bootstrap est découpée en 12 parts (12 colonnes virtuelles)
+- col-12 : largeur complete de la row qui prend 12 colonnes 
+- col-6 : 6 colonnes sur 12
+- col-4 : 4 colonnes sur 12
+
+<section class="container my-3">   <!-- https://getbootstrap.com/docs/5.3/utilities/spacing/  -->
+    <div class="row">
+          <div class="col-12 col-md-6 bg-success">
+              <p class="fw-bold text-center">Contenu A : </p>
+              <p class="small text-danger">Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempore quos voluptatem quae voluptatibus? Cupiditate eos vitae, excepturi consequatur accusamus incidunt, temporibus soluta modi facere aut, eius at cumque maxime.</p>
+         </div>
+         <div class="col-12 col-md-6">  <!-- Premiere info pour la dimension sur mobile -->
+              <p class="mb-3">Contenu B : </p>
+              <p class="text-end">Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempore quos voluptatem quae voluptatibus? Cupiditate eos vitae, excepturi consequatur accusamus incidunt, temporibus soluta modi facere aut, eius at cumque maxime.</p>
+         </div>
+    </div>
+</section>
+
+</body>
+</html>
