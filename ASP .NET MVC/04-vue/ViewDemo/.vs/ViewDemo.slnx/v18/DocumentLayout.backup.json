@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewexercice\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|solutionrelative:viewexercice\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\views\\produit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\produit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewexercice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|solutionrelative:viewexercice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewexercice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|solutionrelative:viewexercice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\views\\home\\foreach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\home\\foreach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\views\\home\\ifelse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\home\\ifelse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewexercice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|solutionrelative:viewexercice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewexercice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E946C85A-7FFE-4586-88BA-B34ACCA483E2}|ViewExercice\\ViewExercice.csproj|solutionrelative:viewexercice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\views\\home\\avecmodelsimple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\home\\avecmodelsimple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\viewdemo\\viewdemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B38919-14C1-46CD-9725-8AAEA2470E76}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Program.cs",
+              "RelativeDocumentMoniker": "ViewExercice\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Program.cs",
+              "RelativeToolTip": "ViewExercice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:49:14.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewExercice\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewExercice\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T10:40:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewExercice\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "ViewExercice\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T10:32:55.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ViewExercice\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ViewExercice\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:30:13.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ViewExercice\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewExercice\\Models\\Student.cs",
+              "RelativeToolTip": "ViewExercice\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:27:19.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Produit\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Produit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Produit\\Index.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Produit\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T09:29:12.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProduitController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Controllers\\ProduitController.cs",
+              "RelativeDocumentMoniker": "ViewDemo\\Controllers\\ProduitController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Controllers\\ProduitController.cs",
+              "RelativeToolTip": "ViewDemo\\Controllers\\ProduitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:27:11.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "ViewDemo\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Models\\Produit.cs",
+              "RelativeToolTip": "ViewDemo\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:23:55.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AvecModelSimple.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\AvecModelSimple.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Home\\AvecModelSimple.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\AvecModelSimple.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Home\\AvecModelSimple.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T09:22:32.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForEach.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\ForEach.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Home\\ForEach.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\ForEach.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Home\\ForEach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T09:15:25.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T09:03:05.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IfElse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\IfElse.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Home\\IfElse.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\IfElse.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Home\\IfElse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T08:54:53.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:34:16.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T08:27:08.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ViewDemo\\ViewDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T08:25:00.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

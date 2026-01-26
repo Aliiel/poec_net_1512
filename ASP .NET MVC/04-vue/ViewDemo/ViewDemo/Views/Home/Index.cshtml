@@ -1,0 +1,42 @@
+﻿@model string     // pour préciser le model envoyé par le controller vers la vue   // définir le model et le type du model recu
+                 
+@*
+    Ecrire un bloc de commentaire 
+*@
+
+@{
+    ViewData["Title"] = "Home Page";
+
+    var message = "Bonjour depuis Razor";
+    int nombre = 42;
+
+    var nom = "";
+    var prenom = "Leïla";
+
+    var fullname = $"{nom} {prenom}";
+
+    var produits = new List<string> { "Ordinateur", "Clavier", "Souris" };
+    var total = 1200.25m;   // m = décimal 
+}
+
+
+<h1>@ViewData["Title"]</h1>
+<p>@message</p>
+
+<h2>Bienvenue @fullname</h2>
+
+<p>@Model</p>
+
+<p>Le nombre est : @nombre</p>
+
+<p>Le double de ce nombre est : @(nombre * 2)</p>
+
+<hr />
+
+<p>Vous avez @produits.Count produit(s) dans votre panier</p>
+<p>Total : @total.ToString("C")</p>   
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
