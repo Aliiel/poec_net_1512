@@ -44,5 +44,20 @@ namespace ViewDemo.Controllers
 
             return View(produits);
         }
+
+        public IActionResult Details ()
+        {
+            return Content("Page de détails");
+        }
+
+        public IActionResult DetailsAvecParametre(int id)
+        {
+            return Content($"Page de détail du produit à l'id {id}");
+        }
+
+        public IActionResult List(string categorie, string sort)
+        {
+            return Content($"Produit de la catégorie {categorie} dans la sorte {sort} ");
+        }
     }
 }

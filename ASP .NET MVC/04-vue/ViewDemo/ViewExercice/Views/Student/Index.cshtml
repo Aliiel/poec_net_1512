@@ -24,7 +24,7 @@
             <th>Prénom</th>
             <th>Nom</th>
             <th>Note</th>
-            <th>Badge</th>
+            <th>Statut</th>
         </tr>
     </thead>
     <tbody>
@@ -40,7 +40,7 @@
             {
                 <span class="badge text-bg-success">Admis</span>                 
             }
-            @if (student.Note < 10)
+            else 
             {
                 <span class="badge text-bg-danger">Non admis</span>
             }

@@ -18,28 +18,28 @@ namespace ViewExercice.Controllers
                 },
                 new Student
                 {
-                    Id = 1,
+                    Id = 2,
                     FirstName = "Paul",
                     LastName = "Jacques",
                     Note = 14
                 },
                 new Student
                 {
-                    Id = 1,
+                    Id = 3,
                     FirstName = "Jacques",
                     LastName = "Pierre",
                     Note = 9
                 },
                 new Student
                 {
-                    Id = 1,
+                    Id = 4,
                     FirstName = "Pierre",
                     LastName = "Marcel",
                     Note = 11
                 },
                 new Student
                 {
-                    Id = 1,
+                    Id = 5,
                     FirstName = "Marcel",
                     LastName = "Charles",
                     Note = 16

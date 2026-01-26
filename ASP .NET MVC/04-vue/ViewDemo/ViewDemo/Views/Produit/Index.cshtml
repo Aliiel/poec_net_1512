@@ -36,6 +36,14 @@
     
 </table>
 
+<hr />
 
+@*  * Lien simple vers une action * *@
+<a asp-controler="Produit" asp-action="Details" class="btn btn-primary">Voir les détails d'un produit</a>
 
+@*  * Lien avec paramètres de route * *@
+<a asp-controler="Produit" asp-action="DetailsAvecParametre" asp-route-id="5" class="btn btn-info">Détail du produit</a>
+
+@*  * Lien avec plusieurs paramètres de route * *@
+<a asp-controler="Produit" asp-action="List" asp-route-categorie="Electronique" asp-route-sort="Prix" class="btn btn-info">Produits éléctroniques</a>
 

@@ -1,0 +1,39 @@
+﻿@model List<Produit>
+
+@{
+    ViewData["Title"] = "Créer un produit";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<a asp-controler="ProduitFormulaire" asp-action="CreerProduit" class="btn btn-primary mb-4 mt-3">Créer un nouveau produit</a>
+
+@if(Model == null || Model.Count == 0)
+{
+    <div class="alert alert-info">
+        <p>Aucun produit pour le moment. Créez votre premier produit !</p>
+    </div>
+}
+else
+{
+    <table class="table">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Nom</th>
+                <th>Prix</th>
+                <th>Stock</th>
+            </tr>
+        </thead>
+        @foreach (var produit in Model)
+        {
+            <tr>
+                <td>@produit.Id</td>
+                <td>@produit.Nom</td>
+                <td>@produit.Prix.ToString("C")</td>
+                <td>@produit.Stock</td>
+            </tr>
+        }
+    </table>
+}
+
