@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\views\\produit\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\views\\produit\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\viewmodel\\etudiantlisteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\viewmodel\\etudiantlisteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\views\\etudiant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\views\\etudiant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\models\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\models\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\viewmodel\\produitdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\viewmodel\\produitdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\05-model\\viewmodelendetail\\viewmodelendetail\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ECF9C3-CE33-4E56-BF49-48533949DEA9}|ViewModelEnDetail\\ViewModelEnDetail.csproj|solutionrelative:viewmodelendetail\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Views\\Etudiant\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\Views\\Etudiant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Views\\Etudiant\\Index.cshtml",
+              "RelativeToolTip": "ViewModelEnDetail\\Views\\Etudiant\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T15:22:00.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EtudiantController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Controllers\\EtudiantController.cs",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\Controllers\\EtudiantController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Controllers\\EtudiantController.cs",
+              "RelativeToolTip": "ViewModelEnDetail\\Controllers\\EtudiantController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:03:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EtudiantListeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\ViewModel\\EtudiantListeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\ViewModel\\EtudiantListeViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\ViewModel\\EtudiantListeViewModel.cs",
+              "RelativeToolTip": "ViewModelEnDetail\\ViewModel\\EtudiantListeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:59:29.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Models\\Classe.cs",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\Models\\Classe.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Models\\Classe.cs",
+              "RelativeToolTip": "ViewModelEnDetail\\Models\\Classe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:56:01.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Models\\Etudiant.cs",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\Models\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Models\\Etudiant.cs",
+              "RelativeToolTip": "ViewModelEnDetail\\Models\\Etudiant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:53:58.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewModelEnDetail\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T14:27:42.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Views\\Produit\\Details.cshtml",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\Views\\Produit\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Views\\Produit\\Details.cshtml",
+              "RelativeToolTip": "ViewModelEnDetail\\Views\\Produit\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T14:26:59.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProduitDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\ViewModel\\ProduitDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\ViewModel\\ProduitDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\ViewModel\\ProduitDetailsViewModel.cs",
+              "RelativeToolTip": "ViewModelEnDetail\\ViewModel\\ProduitDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:23:13.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProduitController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Controllers\\ProduitController.cs",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\Controllers\\ProduitController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Controllers\\ProduitController.cs",
+              "RelativeToolTip": "ViewModelEnDetail\\Controllers\\ProduitController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:13:58.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\Models\\Categorie.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Models\\Categorie.cs",
+              "RelativeToolTip": "ViewModelEnDetail\\Models\\Categorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:12:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "ViewModelEnDetail\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\05-Model\\ViewModelEnDetail\\ViewModelEnDetail\\Models\\Produit.cs",
+              "RelativeToolTip": "ViewModelEnDetail\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:12:07.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

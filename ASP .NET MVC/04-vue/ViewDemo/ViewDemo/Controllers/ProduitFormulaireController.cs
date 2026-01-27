@@ -15,7 +15,7 @@ namespace ViewDemo.Controllers
         }
 
 
-        [HttpGet] // affiche le formulaire vide 
+        [HttpGet] // pour afficher le formulaire vide 
         public IActionResult CreerProduit()
         {
             return View(new Produit()); // créé un produit vide pour le formulaire
