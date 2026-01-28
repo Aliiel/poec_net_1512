@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\models\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\models\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\04-vue\\modeldemo\\modeldemo\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D555C2-19CA-6704-AFCE-092A5945162D}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Etudiant.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Models\\Etudiant.cs",
               "RelativeDocumentMoniker": "ModelDemo\\Models\\Etudiant.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ModelDemo\\Views\\Shared\\_Layout.cshtml",
@@ -75,31 +75,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "ModelDemo\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "ModelDemo\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-27T10:43:01.064Z"
+              "WhenOpened": "2026-01-27T10:43:01.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ModelDemo\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ModelDemo\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T10:37:49.072Z"
+              "WhenOpened": "2026-01-27T10:37:49.072Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Produit.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Models\\Produit.cs",
               "RelativeDocumentMoniker": "ModelDemo\\Models\\Produit.cs",
@@ -111,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EtudiantCours.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Models\\EtudiantCours.cs",
               "RelativeDocumentMoniker": "ModelDemo\\Models\\EtudiantCours.cs",
@@ -123,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Cours.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Models\\Cours.cs",
               "RelativeDocumentMoniker": "ModelDemo\\Models\\Cours.cs",
@@ -135,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Classe.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Models\\Classe.cs",
               "RelativeDocumentMoniker": "ModelDemo\\Models\\Classe.cs",
@@ -147,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "EtudiantController.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\04-vue\\ModelDemo\\ModelDemo\\Controllers\\EtudiantController.cs",
               "RelativeDocumentMoniker": "ModelDemo\\Controllers\\EtudiantController.cs",
@@ -155,7 +157,8 @@
               "RelativeToolTip": "ModelDemo\\Controllers\\EtudiantController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T09:52:28.023Z"
+              "WhenOpened": "2026-01-27T09:52:28.023Z",
+              "EditorCaption": ""
             }
           ]
         }
