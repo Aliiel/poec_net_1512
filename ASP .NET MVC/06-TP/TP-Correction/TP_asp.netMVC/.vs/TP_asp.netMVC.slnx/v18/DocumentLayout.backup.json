@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|solutionrelative:tp_asp.netmvc\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\06-tp\\tp-correction\\tp_asp.netmvc\\tp_asp.netmvc\\data\\dbfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|solutionrelative:tp_asp.netmvc\\data\\dbfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\06-tp\\tp-correction\\tp_asp.netmvc\\tp_asp.netmvc\\services\\produitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|solutionrelative:tp_asp.netmvc\\services\\produitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\06-tp\\tp-correction\\tp_asp.netmvc\\tp_asp.netmvc\\services\\iproduitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|solutionrelative:tp_asp.netmvc\\services\\iproduitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\06-tp\\tp-correction\\tp_asp.netmvc\\tp_asp.netmvc\\data\\dbfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|solutionrelative:tp_asp.netmvc\\data\\dbfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{567B34F0-780F-001D-616D-FC5A8041DC70}|TP_asp.netMVC\\TP_asp.netMVC.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\06-tp\\tp-correction\\tp_asp.netmvc\\tp_asp.netmvc\\repositories\\produitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProduitService.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TP-Correction\\TP_asp.netMVC\\TP_asp.netMVC\\Services\\ProduitService.cs",
               "RelativeDocumentMoniker": "TP_asp.netMVC\\Services\\ProduitService.cs",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "TP_asp.netMVC\\Services\\ProduitService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T14:00:33.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T14:00:33.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IProduitService.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TP-Correction\\TP_asp.netMVC\\TP_asp.netMVC\\Services\\IProduitService.cs",
               "RelativeDocumentMoniker": "TP_asp.netMVC\\Services\\IProduitService.cs",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "TP_asp.netMVC\\Services\\IProduitService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T13:58:52.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T13:58:52.913Z"
             },
             {
               "$type": "Document",
@@ -108,15 +106,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DbFake.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TP-Correction\\TP_asp.netMVC\\TP_asp.netMVC\\Data\\DbFake.cs",
               "RelativeDocumentMoniker": "TP_asp.netMVC\\Data\\DbFake.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TP-Correction\\TP_asp.netMVC\\TP_asp.netMVC\\Data\\DbFake.cs",
               "RelativeToolTip": "TP_asp.netMVC\\Data\\DbFake.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwDEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T13:11:40.94Z"
+              "WhenOpened": "2026-01-28T13:11:40.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,7 +125,7 @@
               "RelativeDocumentMoniker": "TP_asp.netMVC\\Controllers\\ProduitController.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TP-Correction\\TP_asp.netMVC\\TP_asp.netMVC\\Controllers\\ProduitController.cs",
               "RelativeToolTip": "TP_asp.netMVC\\Controllers\\ProduitController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwG8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T10:41:20.064Z",
               "EditorCaption": ""

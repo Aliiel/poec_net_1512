@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TPEtudiants\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F8D99A-EE83-4205-9620-C7294E503B17}|TPEtudiants\\TPEtudiants.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\06-tp\\tpetudiants\\tpetudiants\\models\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F8D99A-EE83-4205-9620-C7294E503B17}|TPEtudiants\\TPEtudiants.csproj|solutionrelative:tpetudiants\\models\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F8D99A-EE83-4205-9620-C7294E503B17}|TPEtudiants\\TPEtudiants.csproj|c:\\users\\administrateur\\documents\\poec_net_1512\\asp .net mvc\\06-tp\\tpetudiants\\tpetudiants\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F8D99A-EE83-4205-9620-C7294E503B17}|TPEtudiants\\TPEtudiants.csproj|solutionrelative:tpetudiants\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cours.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TPEtudiants\\TPEtudiants\\Models\\Cours.cs",
+              "RelativeDocumentMoniker": "TPEtudiants\\Models\\Cours.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TPEtudiants\\TPEtudiants\\Models\\Cours.cs",
+              "RelativeToolTip": "TPEtudiants\\Models\\Cours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:42:24.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TPEtudiants\\TPEtudiants\\Models\\Etudiant.cs",
+              "RelativeDocumentMoniker": "TPEtudiants\\Models\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\ASP .NET MVC\\06-TP\\TPEtudiants\\TPEtudiants\\Models\\Etudiant.cs",
+              "RelativeToolTip": "TPEtudiants\\Models\\Etudiant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:40:53.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

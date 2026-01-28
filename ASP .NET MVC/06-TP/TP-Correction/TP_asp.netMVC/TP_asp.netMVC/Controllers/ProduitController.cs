@@ -1,8 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using TP_asp.netMVC.Extensions;
-using TP_asp.netMVC.Models;
 using TP_asp.netMVC.Services;
 using TP_asp.netMVC.ViewModels;
 
@@ -97,7 +93,6 @@ namespace TP_asp.netMVC.Controllers
             }
 
             return NotFound();
-
         }
 
 
